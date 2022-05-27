@@ -8,7 +8,7 @@ export default function Home({mode}) {
                   <Typography>
                     The HomePage is in <Button variant='contained' color='beguni' style={{color: '#fff', padding: '5px'}}>
                     {mode === 'dark' ? 'Dark' : 'Light'}
-                        </Button> Mode now. 
+                        </Button> Mode now.. 
                   </Typography>
               </Box>
           </Container>
